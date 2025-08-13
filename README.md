@@ -1,4 +1,4 @@
-## Product Line Comparison – Example: PS4 vs. Xbox One
+## Product Line Comparison: PS4 vs. Xbox One
 
 ### Overview
 This Tableau project analyzes global video game sales data (2013–2016) to compare two competing product lines — PlayStation 4 and Xbox One. The dashboard highlights differences in product availability, sales performance across regions, and top-selling genres/titles. The project was completed as part of a Tableau data visualization course and demonstrates how to transform a large dataset into a static, insight-driven dashboard.  
